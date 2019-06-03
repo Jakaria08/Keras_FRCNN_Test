@@ -31,7 +31,3 @@ from keras.models import Model
 from keras.utils import generic_utils
 from keras.engine import Layer, InputSpec
 from keras import initializers, regularizers
-
-import test as tst
-
-tst.test()
